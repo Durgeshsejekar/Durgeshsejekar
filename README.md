@@ -8,8 +8,7 @@ I'm a coder by passion with more than 1 years of programming experience and curr
 
 * 🌍  I'm based in Indore, India
 * ✉️  You can contact me at [durgeshsejekar498@gmail.com](mailto:durgeshsejekar498@gmail.com)
-* 🧠  I'm learning Data Structures and Algorithms
-* ⚡  In my leisure time I love to cook.
+* 🧠  I'm learning Data Structures and Algorithms.
 
 ### Skills
 
