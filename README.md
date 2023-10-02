@@ -4,7 +4,7 @@ Hi 👋 My name is Durgesh Sejekar
 C/C++ programmer
 ----------------
 
-I'm a coder by passion with more than 1 years of programming experience and currently pursuing Bachelors degree with Computer Science as my major. I Personally prefer to work on C and C++. I also have my hands on Python. Currently I am working on Full Stack Development & Willing to learn new technologies.
+I'm a coder by passion with more than 2 years of programming experience and currently pursuing Bachelors degree with Computer Science as my major. I Personally prefer to work on C and C++. I also have my hands on Python. Currently I am working on Full Stack Development & Willing to learn new technologies.
 
 * 🌍  I'm based in Indore, India
 * ✉️  You can contact me at [durgeshsejekar498@gmail.com](mailto:durgeshsejekar498@gmail.com)
